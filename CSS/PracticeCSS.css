@@ -1,0 +1,11 @@
+.aamir-1 {height:100px ;border: solid 6px white;}
+.aamir-2 {height:200px ;border: solid 6px white;}
+.aamir-3 {height:300px ;border: solid 6px white;}
+.aamir-4 {height:400px ;border: solid 6px white;}
+.aamir {display: inline-block; float: left}
+.padding-0 {padding-left: 0px;padding-right:0px;}
+.bg-green {background-color:#8DC63E;}
+.bg-blue {background-color:#00C5FF;}
+.bg-pink {background-color:#E86BFF;}
+.bg-yellow {background-color:#FF8500;}
+.bg-ppink {background-color:#FF6E7A;}
